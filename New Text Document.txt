@@ -1,0 +1,5 @@
+cd /d D:\crypto-bot
+
+D:\crypto-bot>py -3.12 -m venv venv
+
+D:\crypto-bot>venv\Scripts\activate
