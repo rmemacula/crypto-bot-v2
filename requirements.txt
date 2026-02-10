@@ -1,3 +1,7 @@
+setuptools==75.8.0
+wheel==0.45.1
+pip==25.0.1
+
 ccxt==4.2.21
 pandas==2.2.2
 numpy==1.26.4
@@ -7,4 +11,3 @@ pytz==2024.1
 ta==0.11.0
 requests==2.31.0
 beautifulsoup4==4.12.3
-setuptools>=65
